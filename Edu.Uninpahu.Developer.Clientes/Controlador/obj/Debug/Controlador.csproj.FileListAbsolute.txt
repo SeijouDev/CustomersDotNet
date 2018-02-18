@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Controlador\bin\Debug\Controlador.dll
+C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Controlador\bin\Debug\Controlador.pdb
+C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Controlador\bin\Debug\Datos.dll
+C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Controlador\bin\Debug\Dominio.dll
+C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Controlador\bin\Debug\Datos.pdb
+C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Controlador\bin\Debug\Dominio.pdb
+C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Controlador\obj\Debug\Controlador.dll
+C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Controlador\obj\Debug\Controlador.pdb

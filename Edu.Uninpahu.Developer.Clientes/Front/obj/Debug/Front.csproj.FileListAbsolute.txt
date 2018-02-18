@@ -1,2 +1,11 @@
 c:\users\asus\documents\visual studio 2015\Projects\Edu.Uninpahu.Developer.Clientes\Front\bin\Debug\Front.exe.config
 C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Front\bin\Debug\Front.exe.config
+C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Front\bin\Debug\Front.exe
+C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Front\bin\Debug\Front.pdb
+C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Front\bin\Debug\Controlador.dll
+C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Front\bin\Debug\Dominio.dll
+C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Front\bin\Debug\Controlador.pdb
+C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Front\bin\Debug\Dominio.pdb
+C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Front\obj\Debug\Front.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Front\obj\Debug\Front.exe
+C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Front\obj\Debug\Front.pdb
