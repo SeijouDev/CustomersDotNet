@@ -9,3 +9,5 @@ C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Front\bin\
 C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Front\obj\Debug\Front.csprojResolveAssemblyReference.cache
 C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Front\obj\Debug\Front.exe
 C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Front\obj\Debug\Front.pdb
+C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Front\bin\Debug\Datos.dll
+C:\Users\ASUS\Desktop\CustomersDotNet\Edu.Uninpahu.Developer.Clientes\Front\bin\Debug\Datos.pdb

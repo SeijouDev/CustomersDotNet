@@ -16,6 +16,11 @@ namespace Dominio
 
         public string Identificacion { get; set; }
 
+        public Cliente()
+        {
+
+        }
+
         public Cliente (string nombre, DateTime fechaNacimiento, string identificacion)
         {
             this.Nombre = nombre;
@@ -31,7 +36,7 @@ namespace Dominio
 
         public override string ToString()
         {
-            return $"-Nombre: {this.Nombre}\n-FechaNac: {this.FechaNacimiento}\n-Id: {this.Identificacion}\n-Edad: {this.Edad}\n------------";
+            return $"-Nombre: {this.Nombre}\n-Fecha nacimiento: {this.FechaNacimiento}\n-Id: {this.Identificacion}\n-Edad: {this.Edad}\n---";
         }
     }
 }

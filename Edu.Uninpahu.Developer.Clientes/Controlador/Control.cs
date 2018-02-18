@@ -1,4 +1,5 @@
-﻿using Dominio;
+﻿using Datos;
+using Dominio;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,6 +19,9 @@ namespace Controlador
             var lista = new List<Cliente>();
             for(var i = 0; i < 1000; i++)
                 lista.Add(CrearCliente());
+
+            GuardarLista(lista);
+
             return lista;
         }
 
@@ -62,5 +66,14 @@ namespace Controlador
             return fecha_inicio.AddDays(random.Next(dias));
         }
 
+        public void GuardarLista(List<Cliente> lista)
+        {
+            new Data().GuardarListaClientes(lista);
+        }
+
+        public List<Cliente> ObtenerLista()
+        {
+            return new Data().LeerClientes();
+        }
     }
 }
